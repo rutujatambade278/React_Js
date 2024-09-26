@@ -1,0 +1,44 @@
+Create Customer Relationship Management system front end using React Routing, Context, Services.
+Implment CRUD Operations agains Customers Collection maintained as locastorage using Services
+1.Create new react application crm-app
+2.Create folder structure for crm-app ( contexts, services, components)
+3.Implement CRUD Operations logis using locastrage capabilitiy with the help of CustomerService
+3.Create customers, Customer, Update, Insert, Delete Compoents jsx files
+4.Define Routes using routes folder and route.jsx
+5.Define Route links in Customers .jsx and define outlet (Zone)
+	Transflower Customers
+ 
+	Insert new Customer
+ 
+	ravi tambade	|details|update| delete
+	manasi nighot	|details|update| delete
+	ritesh chopra	|details|update| delete
+	shreedhar patil	|details|update| delete
+ 
+	New Customer
+	first Name: 	------
+	last Name:  	------
+	email:	    	-----
+	contactnumber:	----
+			Insert
+ 
+	Customer Details
+	first Name: 	Ravi
+	last Name:  	Tambade
+	email:	    	ravi.tambade@transflower.in
+	contactnumber:	9881735801
+			--Orders--
+ 
+	Customer Update
+	first Name: 	Ravi
+	last Name:  	Jambhulkar
+	email:	    	ravi.j@transflower.in
+	contactnumber:	9881735801
+			update
+ 
+	Customer Remove Reuquest
+	first Name: 	Ravi
+	last Name:  	Tambade
+	email:	    	ravi.tambade@transflower.in
+	contactnumber:	9881735801
+	Are you Sure ?   Yes
